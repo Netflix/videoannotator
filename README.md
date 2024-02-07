@@ -1,9 +1,8 @@
 # Video annotator
 
 ## Data
-TODO: upload the data folder to gdrive
 
-1. Download the data tar file from [here](http://todo.com/todo) and unpack into your folder of choice.
+1. Download the data tar file from [here](https://drive.google.com/file/d/107Dm1UBYQ8UOSs9rcLA1TGExYKbcg7IA/view) and unpack into your folder of choice.
 2. Set `DATA_BASE_PATH` to that folder in `videoannotator/config.py`. E.g. `/root/data/videoannotator/`.
 3. View [this notebook](data-exploration.ipynb) to understand how the data is organized.
 

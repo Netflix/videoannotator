@@ -1,0 +1,226 @@
+{
+  "action": {
+    "description": "Climactic moments or exciting, exhilarating or fast-paced shots or sequences",
+    "keywords": "Explosions, Car Chase, Fighting, Running, Shootout"
+  },
+  "intimacy": {
+    "description": "Two characters being physically close to each other and showing affection",
+    "keywords": "Hugging, Kissing, Caressing, Cuddling"
+  },
+  "sci-fi": {
+    "description": "Imaginary concepts that blend science and fantasy",
+    "keywords": "Space, Aliens, Monsters, Robots, Futuristic Technology, Lasers"
+  },
+  "character-focus": {
+    "description": "Characters are clearly in focus and properly displayed",
+    "keywords": "Profile shots, Facial shots"
+  },
+  "establishing-shots": {
+    "description": "Extremely wide shot that sets the location or time period",
+    "keywords": "Landscapes, Buildings"
+  },
+  "nudity": {
+    "description": "Exposed flesh or socially coveted body parts",
+    "keywords": "genitals, breast, buttocks"
+  },
+  "gore": {
+    "description": "Extreme violence against another person",
+    "keywords": "Blood Spewing, Decapitation, Impact Shots, Stabbing"
+  },
+  "smoking": {
+    "description": "Characters smoking tobacco or drugs",
+    "keywords": "Cigarette, Cigars, Vapes, Drugs"
+  },
+  "happy": {
+    "description": "Characters expressing happiness",
+    "keywords": "Smiling, Joyful, Ecstatic"
+  },
+  "sad": {
+    "description": "Characters expressing sadness",
+    "keywords": "Crying, Tearing, Frowning, Looking Down, Despair"
+  },
+  "horror": {
+    "description": "Content aimed at eliciting fear, shock or disgust. This applies to story, characters, mood and atmosphere. Elements that suggest that the character is in danger or fearing for their life. Subgenres include psychological horror, supernatural horror, gore, slashers",
+    "keywords": "Death, Gore, Blood, Violence, Devil, Demons, Paranormal, Monsters, Cults, Serial Killers"
+  },
+  "alcohol": {
+    "description": "Alcohol consumption is when a character drinks an alcoholic beverage that, depending on the quantity consumed, can cause intoxication or feelings of euphoria, inhibition of judgment, reduced anxiety, and/or sociability. The consumption of alcohol does not have to be shown for this tag to apply, but it should be clearly established that alcohol is the cause of actions/ behaviour depicted",
+    "keywords": "Alcohol bottles, Beer, Shots, Characters Inebriated, Being Drunk"
+  },
+  "anger": {
+    "description": "Character expressing hostility, discontent, annoyance. Anger can be expressed in a range of low, medium, high; passive aggression, open aggression and assertive aggression.",
+    "keywords": "Yelling, Shouting, Rage, Tense, Displeased, Enacting Violence"
+  },
+  "aerial": {
+    "description": "A shot captured from an elevated vantage point, taken above the subject.",
+    "keywords": "Drone Shots, Helicopter shots, Bird’s Eye View, Overhead, Camera pointing down"
+  },
+  "eye-level": {
+    "description": "When the level of the camera is placed at the same height as the eyes of the characters in your frame. An eye level camera angle does not require the viewer to see the eyes of the actor, nor does the actor need to look directly into the camera for a shot to be considered eye level.",
+    "keywords": "Character Facing, Head on shots, Looking Straight Ahead, Medium Close up"
+  },
+  "medium": {
+    "description": "Shots depict the subject approximately from the waist up emphasizing both the subject and their surrounding. ",
+    "keywords": "Interview, Table Talk, Conversation"
+  },
+  "closeup": {
+    "description": "Shots taken at a close range intended to show greater detail.",
+    "keywords": "Face, Hands, Objects, Details"
+  },
+  "wide": {
+    "description": "Wide shots, also known as long shot, show the entire subject and their relation to the surrounding environment.",
+    "keywords": "Establishing shots, City Scapes, Landscape, Field, Nature"
+  },
+  "zoom": {
+    "description": "A zoom shot is when the focal length of a camera lens is adjusted to give the illusion of moving closer or further away from the subject. Zoom shots are done with a zoom lens, which have variable focal lengths. The most typical camera zoom types are the \"zoom in\" and \"zoom out.\" But this technique can also be combined with a dolly shot to create a dolly zoom.",
+    "keywords": "Zoom In / out, Push In / Out, Dolly In / Out, Hitchcock Zoom"
+  },
+  "pan": {
+    "description": "A camera pan is horizontal movement in which the camera moves right to left from a central axis. Taken from the word \"panorama,\" the physical position of the camera itself does not move. Instead, the panning refers to the swiveling left to right mounted on a fixed location. This differs from dolly shots in which the mounting system itself moves. Of course, a pan can also be combined with different camera movements such as dolly shots or tracking shots.",
+    "keywords": "Reveal, Turn, Tracking"
+  },
+  "drama": {
+    "description": "Titles with a serious, sober gravity of overall tone or titles that attempt to present a story that could conceivably happen in real life. A moment of high emotion.",
+    "keywords": "Emotional, Conflict, Serious, Life, Relationships, Reflection, Realization"
+  },
+  "jump-scare": {
+    "description": "A technique often used in horror films, intended to scare the audience by surprising them with an abrupt change in image or event usually co-occurring with a loud, jarring sound.",
+    "keywords": "Screech, Bang, Scream, Shock, Horror"
+  },
+  "car-chase": {
+    "description": "An exciting action sequence where characters are pursuing each other in a moving vehicle. These scenes usually involve reckless driving, daring stunts, and tension.",
+    "keywords": "Car Chase, Speeding, Driving, Car Crash, Swerving"
+  },
+  "violence": {
+    "description": "Violence is any physical act initiated by a perpetrator to harm or damage oneself, another living creature, a personified object or character, or an inanimate object.",
+    "keywords": "Hitting, Kicking, Throwing, Shooting, Stabbing, Slashing, Blood, Gore, Death, Harm"
+  },
+  "drugs": {
+    "description": "Drugs that are illegal or legal substances that are used specifically for the intent of altering one’s state of consciousness or physical feeling, becoming intoxicated, or detaching from reality.",
+    "keywords": "Drugs, Pills, High, Intoxicated, Snort, Swallow, Marijuana, Cocaine, Ecstasy, Needles"
+  },
+  "laughter": {
+    "description": "Characters laughing. Laughter can apply to a range of emotions. Joyous laugh, nervous laugh, ominous laugh.",
+    "keywords": "Laughing, Chuckling, Giggling, Ha Ha"
+  },
+  "animal": {
+    "description": "A mammal, fish, bird, reptile or amphibian",
+    "keywords": "Dog, Cat, Elephant, Pigeon, Iguana, Turtle, Bear"
+  },
+  "object": {
+    "description": "A material thing that can be seen or touched. Items that are being used by characters or are the focus of the shot",
+    "keywords": "Briefcase, Lamp, Phone, Money, Cups"
+  },
+  "interior": {
+    "description": "Situated inside something enclosed",
+    "keywords": "Room, Office, Bedroom, Bathroom, Livingroom, Car, Bus"
+  },
+  "day": {
+    "description": "Settings where there is daylight. Natural light is scene in the setting",
+    "keywords": "Daylight, Day time, Sun, Afternoon"
+  },
+  "overhead-shot": {
+    "description": "When the camera is placed directly above the subject. It's somewhere around a 90-degree angle above the scene taking place. Overhead shots are also called a bird view, bird's eye view, or elevated shot. Its placement is somewhat near the action, differing from the aerial shot. An aerial shot would be closer to a satellite or airplane view, closer to a God's eye view, and an overhead shot is closer to a bird's eye view.",
+    "keywords": "Overhead, Bird’s Eye, God’s View, Above, Looking down, Floor"
+  },
+  "low-angle": {
+    "description": "A shot from a camera angle positioned anywhere below the eye line, pointing upward. It can even be below the character’s feet",
+    "keywords": "Low, Looking Up, Sky, High Ground"
+  },
+  "single-shot": {
+    "description": "One subject or character in focus",
+    "keywords": "Character, Profile, Hero"
+  },
+  "group-shot": {
+    "description": "Group of three or more characters within the focus of the frame",
+    "keywords": "Group, Team, Friends, Gathering"
+  },
+  "over-the-shoulder-shot": {
+    "description": "Shows the main subject from behind the shoulder of another subject",
+    "keywords": "Conversation, Approach, Shoulder"
+  },
+  "point-of-view-shot": {
+    "description": "Seeing from a character’s point of view",
+    "keywords": "POV, Watching, Seeing, Looking"
+  },
+  "handheld": {
+    "description": "A shot is taken with the camera being supported only by the operator’s hands and shoulder.",
+    "keywords": "Camera Footage, Found Footage, Shaky, Unstable Movement, Tense"
+  },
+  "slow-motion": {
+    "description": "The motion of is slower than normal",
+    "keywords": "Slow motion, Freeze "
+  },
+  "timelapse": {
+    "description": "A technique to show a long period of time shown quickly. Usually to capture a progression of action that is normally moving slow. Timelapse is a form of fast motion.",
+    "keywords": "Fast Forward, Time Span, Fast Movement"
+  },
+  "interview": {
+    "description": "Subjects breaking the fourth wall and speaking directly to the camera, audience or interviewer.",
+    "keywords": "Interview, Conversation, Documentary, Explanation"
+  },
+  "romance": {
+    "description": "Content focused on love, romantic relationships, dating or affairs of the heart that center on falling in love, passion, emotion and the affectionate involvement of the main characters.",
+    "keywords": "Looks of Affection, Embrace, Kissing, Hugging, Holding Hands"
+  },
+  "fantasy": {
+    "description": "Titles that contain imaginary and often magical elements which are far removed from reality: wizards, witches, dragons, vampires, elves, trolls, fairies, etc. It may be set in a fictional past of swords, horses, knights and princesses or a grounded reality. Do not confuse this genre with Sci-Fi.",
+    "keywords": "Magic, Creatures, Spectacle, Mystical"
+  },
+  "fight": {
+    "description": "Characters physically battling each other using weapons or their body",
+    "keywords": "Combat, Martial Arts, Punch, Kick, Hit, Weapons"
+  },
+  "run": {
+    "description": "Characters running",
+    "keywords": "Run, Sprint, Speed, Fast"
+  },
+  "scared": {
+    "description": "Characters in fear or frightened. This can be in varying degrees.",
+    "keywords": "Fear, Frightened, Panicked, Screaming"
+  },
+  "golden-hour": {
+    "description": "The hour as the sun rises or as the sun sets",
+    "keywords": "Sunrise, Sunset, Dawn"
+  },
+  "extreme-close-up": {
+    "description": "An extreme close-up shot frames a subject very closely, often so much so that the outer portions of the subject are cut off by the edges of the frame.",
+    "keywords": "Eyes, Details, Zoom"
+  },
+  "extreme-wide-shot": {
+    "description": "A wide shot that covers a wider area. The shot frames the subject from a distance and focuses on its surroundings. Remember: In a wide shot, the character is usually still noticeable in the frame. But in an ELS, it’s not always necessary to see the character. The EWS functions best as an establishing shot, as more of the location is in the frame.",
+    "keywords": "Far away, Distant, Extreme Long Shot"
+  },
+  "cowboy-shot": {
+    "description": "A shot framed from the actor’s mid-waist to right above their head. Many times the camera is placed at hip level as well, to give a slightly low angle to the shot. The idea of a cowboy shot is to present the actor in a heroic, confident fashion while also allowing the viewer to see action taking place around the actor’s waistline, often to see guns or swords drawn.",
+    "keywords": "Medium Full Shot, Waist, Hip"
+  },
+  "high-angle": {
+    "description": "A high angle shot is when the camera looks down on the character or subject from an elevated perspective. This is usually achieved by placing the camera higher than the subject and then angling it down on them. This can range from a shallow angle just above eye level all the way to directly above the subject.",
+    "keywords": "Looking Down, Edge, Cliff, Hanging, Characters Looking Up"
+  },
+  "dutch-angle": {
+    "description": "A type of camera shot that has a noticeable tilt on the camera’s “x-axis.” Directors often use a Dutch angle to signal to the viewer that something is wrong, disorienting, or unsettling.",
+    "keywords": "Tilt, Disoriented, Strange, Unsettling"
+  },
+  "two-shot": {
+    "description": "A two shot is a shot in which the frames a view of the subjects. The subjects do not have to be next to each other. There are many which have one subject in the foreground and the other subject in the background. The shot is used to show the emotional reactions between the subjects.",
+    "keywords": "Two, Pair, Couple, Together"
+  },
+  "insert-shot": {
+    "description": "An insert shot is any shot that’s sole purpose is to focus the viewer’s attention to a specific detail within a scene. These shots are often placed from the point of view of a character, suggesting that we see what the character sees during a moment of concentration.",
+    "keywords": "Objects, Close-Up, B-Roll"
+  },
+  "tilt-shot": {
+    "description": "A tilt shot is shot that uses a cinematographic technique called tilting in which the camera stays fixed but rotates up and down on a vertical plane. Tilting is similar to the motion of an individual raising or lowering their heads. This is different than the panning of a camera which also sits on a fixed but moves left to right.",
+    "keywords": "Looking Up, Looking Down"
+  },
+  "static-shot": {
+    "description": "A static shot in film is a shot that is devoid of camera movement. Also known as a locked-off shot, or an immobile shot. The frame can be filled with the movement of vehicles, characters, props, weather, etc, but the frame itself does not move in a static shot.",
+    "keywords": "Frame, Still"
+  },
+  "shutter-shot": {
+    "description": "The asset contains duplicate frames, stretching the running time of the sequence and creating a sense of slow motion for the audience.",
+    "keywords": "slow motion"
+  }
+}

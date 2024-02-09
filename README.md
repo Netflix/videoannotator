@@ -1,5 +1,8 @@
 # Video annotator
 
+## System
+![System](sys.png)
+
 ## Data
 
 1. Download the data tar file from [here](https://drive.google.com/file/d/107Dm1UBYQ8UOSs9rcLA1TGExYKbcg7IA/view) and unpack into your folder of choice.

@@ -1,5 +1,33 @@
 # Video Annotator
 
+## Video understanding
+
+Here's a quick demo to get started:
+```python
+from videoannotator import data, models
+import numpy as np
+
+# pick a label to work with
+label = "car-chase"
+
+# grab the annotated dataset for the label
+dataset = data.get_aggregate_labeled_dataset(label=label)
+
+# train a classifier with the labeled data
+clf = models.LogisticRegression(scoring='average_precision')
+clf.fit(dataset.x, dataset.y)
+
+# get the video embedding for your clip
+np.random.seed(0)
+emb = np.random.rand(1, 512)
+
+# score is between 0 and 1
+# higher score means that the clip is more likely to contain to `label`
+score = clf.predict_proba(emb).item()
+```
+
+See more details in [this notebook](demo.ipynb).
+
 ## What is Video Annotator?
 
 The best source is our paper [here](https://arxiv.org/abs/2402.06560). Here's the abstract:
@@ -9,8 +37,6 @@ The best source is our paper [here](https://arxiv.org/abs/2402.06560). Here's th
 >We posit that more direct involvement of domain experts, using a human-in-the-loop system, can resolve many of these practical challenges. We propose a novel framework we call Video Annotator (VA) for annotating, managing, and iterating on video classification datasets. Our approach offers a new paradigm for an end-user-centered model development process, enhancing the efficiency, usability, and effectiveness of video classifiers. Uniquely, VA allows for a continuous annotation process, seamlessly integrating data collection and model training.
 > 
 > We leverage the zero-shot capabilities of vision-language foundation models combined with active learning techniques, and demonstrate that VA enables the efficient creation of high-quality models. VA achieves a median 6.8 point improvement in Average Precision relative to the most competitive baseline across a wide-ranging assortment of tasks. We release a dataset with 153k labels across 56 video understanding tasks annotated by three professional video editors using VA, and also release code to replicate our experiments.
-
-_Amir Ziai, Aneesh Vartakavi_
 
 ## System
 ![System](sys.png)
